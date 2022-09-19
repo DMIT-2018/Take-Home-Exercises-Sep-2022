@@ -10,11 +10,11 @@ This exercise is based on the Work Schedule database. For this exercise, provide
 
     ![Skills lacking qualified employees](q1.png)
 
-1. Show all skills requiring a ticket and which employees have those skills. Include all the data as seen in the following image. Order the employees by years of experience (highest to lowest). Use the following text for the levels: 0 = Novice, 1 = Proficient, 2 = Expert. (Hint: Use nested [ternary operators](https://msdn.microsoft.com/en-us/library/ty67wk28.aspx) to handle the levels as text.)
+1. Show all skills requiring a ticket and which employees have those skills. Include all the data as seen in the following image. Order the employees by years of experience (highest to lowest). Use the following text for the levels: 1 = Novice, 2 = Proficient, 3 = Expert. (Hint: Use nested [ternary operators](https://msdn.microsoft.com/en-us/library/ty67wk28.aspx) to handle the levels as text.)
 
     ![Employees with skills requiring a ticket](q2.png)
 
-1. List all employees with multiple skills; ignore employees with only one skill. Show the name of the employee and the list of their skillsets; for each skill, show the name of the skill, the level of competance and the years of experience. Use the following text for the levels: 0 = Novice, 1 = Proficient, 2 = Expert.
+1. List all employees with multiple skills; ignore employees with only one skill. Show the name of the employee and the list of their skillsets; for each skill, show the name of the skill, the level of competance and the years of experience. Use the following text for the levels: 1 = Novice, 2 = Proficient, 3 = Expert.
 
     ![Employees with multiple skills](q3.png)
 
